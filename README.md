@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙏𝙃𝙄𝙎+𝙄𝙎+#𝘼𝙪𝙩𝙤𝙁𝙞𝙡𝙩𝙚𝙧+𝘽𝙤𝙩!;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼𝙪𝙩𝙤𝙁𝙞𝙡𝙩𝙚𝙧+𝘽𝙤𝙩!;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
-  <b> 𝘼𝙪𝙩𝙤𝙁𝙞𝙡𝙩𝙚𝙩 𝘽𝙤𝙩</b>
+  <b> 𝘼𝙪𝙩𝙤𝙁𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
